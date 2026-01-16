@@ -31,6 +31,7 @@ Our team decided to focus on Phase 3 of the capstone, which includes the “Chal
 
 
 # Team Roles
+
 Dalis – Team Lead
 Led team coordination by setting the agenda, assigning roles and responsibilities, ensuring project timeline was met, and creating the project README.
 
@@ -87,7 +88,6 @@ Our previous capstones proved to be incredibly helpful, they served as a source 
 
 
 # Challenges & Lessons Learned
-challenges as a team? ways that we worked well, did we strengthen any skills?
 
 Throughout this project, our team faced challenges related to coordinating changes across shared code and ensuring new features integrated smoothly with existing functionality. Our biggest struggle stemed from learned how to collaborate on github, we learned as we went and askedf for help from our peers. (Thank you to everyone that helped us)
 As a team, we worked well by dividing tasks based on strengths, regularly checking in on progress, and supporting one another during debugging and troubleshooting. This collaboration helped us resolve issues more efficiently and avoid duplicated effort. Splitting up the responsibilities required clear communication and attention to detail.
