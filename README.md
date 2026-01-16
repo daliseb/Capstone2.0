@@ -71,6 +71,10 @@ Our previous capstones proved to be incredibly helpful, they served as a source 
 
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d5a91b54-861d-49bd-8247-871018d2bb43" />
 
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/765ad856-061e-4bd4-9983-f2d22da2494f" />
+
+
+
 
 # Challenges & Lessons Learned
 
