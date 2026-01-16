@@ -1,5 +1,5 @@
 # Capstone 2.0- Team Collaboration
-Project By: 
+Project By: Dalis Estrada, Ayanna Smith, Morgan Edmonds, Nathaniel Ogando, Kenya Crawford 
 
 # Objective:
 The main goal of this project is to collaboratively improve an existing our first project by fixing issues and implementing meaningful enhancements to enhance the user experience. Our other goals include:
