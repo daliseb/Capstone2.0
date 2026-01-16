@@ -15,9 +15,16 @@ The scope is a clear path for our project, it helps us to identify what we are d
 
 # Project Selection
 -Whose project is it? Why did we choose it? What would we like to fix? 
-We chose Dalis's project to enhance, we chose this application because the original code was simple and had no extra components. The application runs and does the basic actions such as adding a deposit, payment and displaying the transactions on the ledger screen. We decided to take up phase 3, which incorporates the "Challenge Yourself" section of the capstone. 
+We chose Dalis's project to enhance, we chose this application because the original code was simple and had no extra components. The application runs and does the basic actions such as adding a deposit, payment and displaying the transactions on the ledger screen. We decided to take up phase 3, which incorporates the "Challenge Yourself" section of the capstone instructions. 
 
 The user should be able to do a custom search on the transactions and filter them by date, description, vendor and amount from the CSV file.
+
+<img width="500" height="500" alt="Screenshot 2026-01-16 at 10 14 18 AM" src="https://github.com/user-attachments/assets/f18a75c6-6ca9-4b8b-9039-3f13a651c8ff" />
+
+
+
+
+
 
 
 # Team Roles
