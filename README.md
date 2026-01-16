@@ -36,25 +36,41 @@ They were responsible for implementing the custom search functionality. This tea
 Ayanna and Kenya – Developer Team 2
 They focused on enhancing the visual design of the “Challenge Yourself” instructions. Their contributions included adding color and improving the overall look to make the instructions more engaging for the user and easier to follow.  
 
-# Problem 1
+# Problem 1 ( phase 3 )
 Team 1 implemented the “Custom Search” feature on the reports screen as part of the Challenge Yourself requirements. This was Phase 3. They added a new menu option that prompts the user to enter search criteria, including start date, end date, description, vendor, and amount.
 
 <img width="500" height="600" alt="classesBefore" src="https://github.com/user-attachments/assets/096931d7-4a73-4b3a-8113-6191115a8020" />
 
+^Above is a screenshot of the application classes before modifying.
+
+The search was designed to be flexible and user-friendly. If a user enters a value for a specific field, the system filters transactions based on that input. If a field is left blank, the application ignores that filter and continues searching using the remaining criteria. This approach allows users to easily narrow down transactions or perform broad searches without being required to fill in every field. 
+
+Below is a screenshot of the code after it was modified. 
+
+<img width="500" height="600" alt="customsearchclass" src="https://github.com/user-attachments/assets/4c667226-9e64-49d5-9d02-10403751b04f" />
+
+
+Team one created a new class to make this process easier ^^
 
 
 
+# Problem 2 ( phase 3, part 2 )
+
+Team 2 customized the console application to give it a unique identity and improve the overall user experience. This included creating a custom app name and adding a starter screen that displays when the application launches.
+
+<img width="500" height="600" alt="MainandLedgerscreensbefore" src="https://github.com/user-attachments/assets/e3f32b84-56d7-4d3d-aaf9-a3ea224df85d" />
+
+^^ Above, I have added what the menu's looked like before.
+
+They also tailored how transactions are presented so they align with the theme of the app, making the data feel more relevant and engaging. For example, transactions were formatted to reflect a specific use case such as restaurant purchases, record store sales, or clothing store transactions. This customization helps make the application more intuitive and visually consistent for the user, while still maintaining all core functionality.
+
+^^Above is a picture of the menu's after the customization. 
 
 
+Our previous capstones proved to be incredibly helpful, they served as a source to reference.
 
-The search was designed to be flexible and user-friendly. If a user enters a value for a specific field, the system filters transactions based on that input. If a field is left blank, the application ignores that filter and continues searching using the remaining criteria. This approach allows users to easily narrow down transactions or perform broad searches without being required to fill in every field.
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d5a91b54-861d-49bd-8247-871018d2bb43" />
 
-
-
-
-# Problem 2
-
-# Problem 3
 
 # Challenges & Lessons Learned
 
