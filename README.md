@@ -11,6 +11,10 @@ The main goal of this project is to collaboratively improve an existing our firs
 # Planning Process and Identifying Scope:
 Defining the project scope gives the team a clear direction and goal. It helps us stay focused on what needs to be done, avoid unnecessary changes, and use our time efficiently. A well defined scope also allows us to divide work effectively, stay on schedule, and meet deadlines.
 
+<img width="500" height="300" alt="Kanbanboard" src="https://github.com/user-attachments/assets/9a7fdbe1-2fd8-4fa6-a9a6-aadbf4de60a7" />
+
+Above, I have added a picture of our Kanban Board in Jira, we decided to use the kanban board as this project was shorter. Creating an outline and agenda for our capstone was essential as it helped us visualize the steps and tackle them faster.
+
 
 
 # Project Selection
@@ -64,6 +68,11 @@ Team 2 customized the console application to give it a unique identity and impro
 
 They also tailored how transactions are presented so they align with the theme of the app, making the data feel more relevant and engaging. For example, transactions were formatted to reflect a specific use case such as restaurant purchases, record store sales, or clothing store transactions. This customization helps make the application more intuitive and visually consistent for the user, while still maintaining all core functionality.
 
+<img width="500" height="200" alt="Screenshot 2026-01-16 at 11 42 36 AM" src="https://github.com/user-attachments/assets/0e8cd481-8b99-4e67-b55e-a1c5e4de3063" />
+
+
+
+
 ^^Above is a picture of the menu's after the customization. 
 
 
@@ -71,17 +80,21 @@ Our previous capstones proved to be incredibly helpful, they served as a source 
 
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/d5a91b54-861d-49bd-8247-871018d2bb43" />
 
-<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/765ad856-061e-4bd4-9983-f2d22da2494f" />
+
+<img width="500" height="200" alt="image (1)" src="https://github.com/user-attachments/assets/e885dddb-db5a-474d-b94c-ff16b127a4d6" />
 
 
 
 
 # Challenges & Lessons Learned
-
-
-# Acknowledgments
-
 challenges as a team? ways that we worked well, did we strengthen any skills?
+
+Throughout this project, our team faced challenges related to coordinating changes across shared code and ensuring new features integrated smoothly with existing functionality. Our biggest struggle stemed from learned how to collaborate on github, we learned as we went and askedf for help from our peers. (Thank you to everyone that helped us)
+As a team, we worked well by dividing tasks based on strengths, regularly checking in on progress, and supporting one another during debugging and troubleshooting. This collaboration helped us resolve issues more efficiently and avoid duplicated effort. Splitting up the responsibilities required clear communication and attention to detail.
+
+Through this process, we strengthened several key skills, including teamwork, problem solving, and code organization. We learned to communicate technical ideas clearly, and manage our time effectively while working toward shared deadlines. 
+
+
 
 
 
